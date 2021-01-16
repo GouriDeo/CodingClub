@@ -1,0 +1,246 @@
+    1  git config --global user.name gouri
+    2  git config --global user.email gdeo30@gmail.com
+    3  git init
+    4  git remote add origin https://github.com/GouriDeo/PracticeProgram.git
+    5  git add.
+    6  git add .
+    7  clear
+    8  git status
+    9  clear
+   10  git commit -m "My first commit"
+   11  clear
+   12  git push -u origin master
+   13  git config --global user.name gouri
+   14  git config --global user.email gdeo30@gmail.com
+   15  git config --global user.email "gdeo30@gmail.com"
+   16  git config --global user.user "gouri"
+   17  git init
+   18  git config --global user.gouri
+   19  git config -- global user.gdeo30@gmail.com
+   20  git config --global user.name gouri
+   21  git config -- global user.email gdeo30@gmail.com
+   22  git config --global user.email gdeo30@gmail.com
+   23  git init
+   24  touch .gitignore
+   25  git remote add origin https://github.com/GouriDeo/NewBasicPrograms.git
+   26  git add .
+   27  git cimmit -m "initial commit"
+   28  git commit -m "commit"
+   29  git push -u origin master
+   30  clear
+   31  git status
+   32  git status
+   33  git add .
+   34  git commit -m "Updated program"
+   35  git push -u origin master
+   36  git status
+   37  cd /c
+   38  mkdir CrudNodeBackend
+   39  cd CrudNodeBackend
+   40  mkdir node-easy-notes-app
+   41  cd node-easy-notes-app
+   42  npm init
+   43  ls
+   44  npm install express body-parser mongoose --save
+   45  ls
+   46  npm init
+   47  clear
+   48  touch server.js
+   49  mkdir app
+   50  cd app
+   51  mkdir routes controller services models
+   52  cd ..
+   53  mkdir config
+   54  cd config
+   55  touch config.database.js
+   56  npm install express body-parser mongoose --save
+   57  cd ..
+   58  touch .env
+   59  npm install dotenv
+   60  clear
+   61  cd app/models
+   62  touch user.model.js
+   63  touch token.model.js
+   64  cd ..
+   65  cd services
+   66  touch user.service.js
+   67  cd ..
+   68  cd..
+   69  cd ..
+   70  npm install nodemailer
+   71  npm install crypto
+   72  npm install event-emitter
+   73  nmp install bcrypt-nodejs
+   74  npm install bcrypt-nodejs
+   75  mkdir events
+   76  cd events
+   77  touch event.js
+   78  cd ..
+   79  cd controller
+   80  cd app/controller/
+   81  touch user.controller.js
+   82  clear
+   83  npm install express-validator@5.3.0
+   84  cd ..
+   85  cd routes
+   86  touch user.routes.js
+   87  ls
+   88  git ststus
+   89  git status
+   90  ls
+   91  cd CodingClub
+   92  mkdir linux-content
+   93  ls
+   94  cd linux-content/
+   95  ls
+   96  git clone https://github.com/edurekavivekh/linux-content.git/
+   97  ls
+   98  cd linux-content
+   99  ls
+  100  mkdir temp
+  101  ls
+  102  cd temp
+  103  touch a.txt b.txt
+  104  ls -p
+  105  ls -l
+  106  cp a.txt test.txt
+  107  ls
+  108  mv b.txt x.txt
+  109  ls
+  110  whereis cp
+  111  where cmd cp
+  112  where cp
+  113  pwd
+  114  mkdir
+  115  mkdir codingClub
+  116  cd c
+  117  cd /c/Users/Gauri
+  118  cd codingClub
+  119  mkdir terminalCommand
+  120  git clone https://github.com/edurekavivekh/linux-content.git
+  121  ls
+  122  cd terminalCommand
+  123  git clone https://github.com/edurekavivekh/linux-content.git
+  124  ls
+  125  cd linux-content/
+  126  ls
+  127  pwd
+  128  pwd
+  129  cd codingClub/
+  130  ls
+  131  cd codingClub
+  132  cd terminalCommand/
+  133  ls
+  134  cd linux-content/
+  135  ls
+  136  head access.log 
+  137  find . -size +5M
+  138  find . -name '*.pdf' -size +5M
+  139  cat data.csv
+  140  grep -R CAPTAIN
+  141  ls -p | grep /
+  142  ls
+  143  mkdir test
+  144  ls -p | grep /
+  145  ls -p | grep -v /
+  146  env
+  147  env USER
+  148  env User
+  149  env | grep USER
+  150  find . -size +5M -type f
+  151  find -name *.csv
+  152  grep -i CAPTAIN data.csv 
+  153  ls -p
+  154  ls
+  155  echo $SHELL
+  156  du -sh linux-content
+  157  cs ..
+  158  cd ..
+  159  du -sh linux-content/
+  160  du -sk linux-content/* |sort -n
+  161  du -sk linux-content/* |sort -nr
+  162  pwd
+  163  ls
+  164  cd codingClub/
+  165  ls
+  166  cd terminalCommand/
+  167  ls
+  168  cd linux-content/
+  169  touch helloWorld.java
+  170  ls
+  171  mkdir test
+  172  cd test/
+  173  touch helloWorld.java
+  174  nano helloWorld.java 
+  175  javac helloWorld.java 
+  176  nano helloWorld.java 
+  177  javac helloWorld.java 
+  178  java helloWorld
+  179  pwd
+  180  cd codingClub/
+  181  ls
+  182  cd terminalCommand/
+  183  ls
+  184  cd linux-content/
+  185  ls
+  186  cd test
+  187  ls
+  188  nano helloWorld.java
+  189  javac helloWorld.java
+  190  java helloWorld
+  191  ps -elf | grep java
+  192  jobs
+  193  ps -elf | grep java
+  194  pa -elf
+  195  ps -elf
+  196  java helloWorld &
+  197  jobs
+  198  ps -elf
+  199  jobs
+  200  fg%1
+  201  fg % 1
+  202  ps -elf
+  203  clear
+  204  ls
+  205  ps -elf
+  206  nano helloWorld.java
+  207  ps -elf |grep java | awk '{print $2}'
+  208  java helloWorld
+  209  ps -elf |grep java | awk '{print $2}'
+  210  java helloWorld &
+  211  ps -elf |grep java | awk '{print $2}'
+  212  kill -9 ps -elf |grep java |awk '{print $1}'
+  213  jobs
+  214  myid ='ps -elf |grep java |awk '{print $1}''
+  215  myid =`ps -elf |grep java |awk '{print $1}'`
+  216  myid=`ps -elf |grep java |awk '{print $1}'`
+  217  kill -9 $muid
+  218  kill -9 $myid
+  219  jobs
+  220  kill -9 $myid
+  221  myid=`ps -elf |grep java |awk '{print $2}'`
+  222  echo $myid
+  223  kill -9 $myid
+  224  ps -elf
+  225  echo hello user
+  226  echo hello user | awk '{print $0}'
+  227  echo hello user | awk '{$2="Gouri"}{print $0}'
+  228  echo hello user | awk {print $1}'
+  229  echo hello user | awk '{print $1}'
+  230  echo hello user | awk '{print $2}'
+  231  cd ..
+  232  ls
+  233  cat data.csv
+  234  cat data.csv | grep CAPTAIN
+  235  cat data.csv | grep CAPTAIN | awk '{print $2 " " $4}' 
+  236  cat data.csv | grep CAPTAIN | awk '{print sum+=$4}' 
+  237  cat data.csv | grep CAPTAIN | awk '{sum+=$4} END{print sum}' 
+  238  cat data.csv | grep CAPTAIN | awk '{sum+=$4} END{print sum/NR}' 
+  239  cat data.csv | grep -iv captain 
+  240  cat data.csv | grap -iv captain | awk'{sum+=$4} END{print sum/NR}'
+  241  cat data.csv | grap -iv captain | awk '{sum+=$4} END{print sum/NR}'
+  242  cat data.csv | grap -iv captain | awk '{sum+=$4} END {print sum/NR}'
+  243  cat data.csv | grep -iv captain | awk '{sum+=$4} END {print sum/NR}'
+  244  cat data.csv | grep -iv captain | awk '{sum+=$4} END {print sum/NR}'
+  245  history
+  246  history > command.txt
